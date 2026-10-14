@@ -8,6 +8,7 @@
   "keywords": ["wake", "commerce", "storefront", "graphql", "headless", "ecommerce"],
   "license": "MIT",
   "logo": "assets/wake-logo.png",
+  "icon": "assets/wake-icon.png",
   "homepage": "https://github.com/wake-engineering/ai-plugin",
   "repository": "https://github.com/wake-engineering/ai-plugin",
   "bugs": "https://github.com/wake-engineering/ai-plugin/issues"
